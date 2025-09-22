@@ -181,7 +181,7 @@ void Simular(TpFila f){
 
     if(ptr == NULL){
         gotoxy(12,12); textcolor(12);
-        printf("Erro ao abrir arquivo!  \n");
+        printf("Erro ao abrir arquivo!          \n");
 
     }
     int linhaatend = 11;
